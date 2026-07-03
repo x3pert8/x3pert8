@@ -17,8 +17,9 @@ Degree: Mechanical Engineering
 Languages:
   - Python
   - Go
-  - MATLAB
-  - JavaScript
+  - php
+  - JS
+  - matlab
 
 Interests:
   - Cybersecurity
