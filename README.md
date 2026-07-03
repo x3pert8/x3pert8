@@ -1,7 +1,6 @@
 <div align="center">
 
-
-
+![Ha](https://cdn.imgurl.ir/uploads/o925613_02ef83cc-fd7d-4e0c-8834-67b2e3b46c26.png)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Python+Developer;Mechanical+Engineer;Cybersecurity+Enthusiast;Golang+Developer;Front-End+Developer" />
 
