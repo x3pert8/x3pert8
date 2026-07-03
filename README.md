@@ -9,7 +9,7 @@
 
 ---
 
-# 🖥 About Me
+#  About Me
 
 ```yaml
 Role: Software Developer
@@ -30,17 +30,17 @@ Interests:
 
 ---
 
-# ⚡ Tech Stack
+#  Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,go,html,css,js,git,github,linux,vscode,bash"/>
+<img src="https://skillicons.dev/icons?i=python,go,html,css,js,git,github,linux,vscode,matlab,bash"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark)
 
@@ -50,11 +50,11 @@ Interests:
 
 ---
 
-# 💀 Motto
+#  Motto
 
 ```bash
-$ sudo make world better
-[success]
+$ Break Limits, Not Systems.
+
 ```
 
 ---
